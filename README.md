@@ -35,3 +35,4 @@ Check if the Pokemon type is fire and has speed greater than 70
 =CONCAT(B2," ",A2)
 
 
+

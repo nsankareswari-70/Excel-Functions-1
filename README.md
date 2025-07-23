@@ -19,5 +19,5 @@ Check if the Pokemon type is fire and has speed greater than 70
 
 # Note: The average function ignores cells with text and completes the calculation.
 
-![image alt]()
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/34c1a70bad4dea198d053458f2d74edd57eadf20/ex5.png)
 

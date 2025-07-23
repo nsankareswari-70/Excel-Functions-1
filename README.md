@@ -14,6 +14,6 @@ Check if the Pokemon type is fire and has speed greater than 70
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/57d62b177012c17594ffe5860019d171a2c9b5e1/ex3.png)
 
 # Average Function
-
+=AVERAGE(B2:E2)
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/46d3b19de6764952bd0d099cc5ccfc8216b329c8/ex4.png)
 

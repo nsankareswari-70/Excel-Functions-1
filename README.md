@@ -17,3 +17,7 @@ Check if the Pokemon type is fire and has speed greater than 70
 =AVERAGE(B2:E2)
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/46d3b19de6764952bd0d099cc5ccfc8216b329c8/ex4.png)
 
+# Note: The average function ignores cells with text and completes the calculation.
+
+![image alt]()
+

@@ -40,6 +40,7 @@ Works only for cells with numbers
 =COUNT(D2:D21)  --> result 20
 =COUNT(A2:A21) --> result 0
 
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/ed1f6322a37d2961bb83ac7bdf9537cd78095ac3/ex9.png)
 
 
 

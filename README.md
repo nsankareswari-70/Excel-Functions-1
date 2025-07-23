@@ -11,4 +11,5 @@ Check if the Pokemon type is fire and has speed greater than 70
 
 =IF(AND(B2:B10="Fire",C2:C10>70),"Yes","No")
 
-![image alt]( https://github.com/nsankareswari-70/Excel-Functions-1/blob/b3b63ca8f7b407194ca999c2e1c677fecf9e0a6b/ex1.png)
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/444b02a96e069c95feef9f3c2822f443d9472d6a/ex2.png)
+

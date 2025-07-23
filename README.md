@@ -35,5 +35,11 @@ Check if the Pokemon type is fire and has speed greater than 70
 =CONCAT(B2," ",A2)
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/1e49134110ee7d52748dd9713266d566c93f52ef/ex8.png)
+# Count function
+Works only for cells with numbers
+=COUNT(D2:D21)  --> result 20
+=COUNT(A2:A21) --> result 0
+
+
 
 

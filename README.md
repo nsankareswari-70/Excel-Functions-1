@@ -34,6 +34,6 @@ Check if the Pokemon type is fire and has speed greater than 70
 # Concat function 
 =CONCAT(B2," ",A2)
 
-![image alt](![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/6e04defb38dcf2bb18c9c0c4e72c6b07d0264300/ex8.png)
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/6e04defb38dcf2bb18c9c0c4e72c6b07d0264300/ex8.png)
 
 

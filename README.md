@@ -42,6 +42,10 @@ Works only for cells with numbers
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/ed1f6322a37d2961bb83ac7bdf9537cd78095ac3/ex9.png)
 
+# CountA function
+The COUNTA function counts cells in a range with values both numbers and letters.
+
+
 
 
 

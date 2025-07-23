@@ -53,6 +53,7 @@ The COUNTBLANK function is a premade function in Excel, which counts blank cells
 # Countif function
 The COUNTIF function is a premade function in Excel, which counts cells as specified.
 
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/6c1cb2a6013038c708c370caf71c54e46c6fadd5/ex12.png)
 
 
 

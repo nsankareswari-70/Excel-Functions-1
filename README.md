@@ -31,7 +31,7 @@ Check if the Pokemon type is fire and has speed greater than 70
 =AVERAGEIFS(C2:C13,B2:B13,F3,D2:D13,G3)
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/6e04defb38dcf2bb18c9c0c4e72c6b07d0264300/ex7.png)
 
-# Concat function 
+# Concat function   
 =CONCAT(B2," ",A2)
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/1e49134110ee7d52748dd9713266d566c93f52ef/ex8.png)

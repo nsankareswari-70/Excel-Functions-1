@@ -26,3 +26,7 @@ Check if the Pokemon type is fire and has speed greater than 70
 =AVERAGEIF(B2:B10,D4,C2:C10)
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/c2bef0ab341e101eeee982d03fbb0fd39250dfe5/ex6.png)
+
+# AVERAGEIFS function
+=AVERAGEIFS(C2:C13,B2:B13,F3,D2:D13,G3)
+![image alt]()

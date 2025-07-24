@@ -66,8 +66,8 @@ The COUNTIF function is a premade function in Excel, which counts cells as speci
 # Ifs function
 
 Speed category
-&gt;>90 Fast
-&gt;>50 Normal
+&gt;90 Fast
+&gt;50 Normal
 &lt<=50 Slow
 
 

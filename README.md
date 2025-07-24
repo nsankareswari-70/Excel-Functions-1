@@ -87,6 +87,8 @@ Speed category
 
 =MAX(D2:D21)
 
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/54df9b978e8a4a47d355eed011bcb753fe0f8cd3/ex17.png)
+
 
 
 

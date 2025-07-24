@@ -63,6 +63,14 @@ The COUNTIF function is a premade function in Excel, which counts cells as speci
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/5cda06346c65e70b126604e4953d358563bce869/ex13.png)
 
+# Ifs function
+
+Speed category
+>90 Fast
+>50 Normal
+<=50 Slow
+
+
 
 
 

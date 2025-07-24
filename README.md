@@ -83,6 +83,9 @@ Speed category
 =LOWER(A5)
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/f882fc5c2e38f4a5d71f42c3c645913bf38a3dc7/ex16.png)
 
+# Max function
+
+=MAX(D2:D21)
 
 
 

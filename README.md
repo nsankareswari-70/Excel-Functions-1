@@ -91,9 +91,11 @@ Speed category
 
 # Median Function
 
-=MEDIAN(A24:G25)  
+=MEDIAN(A25:G25)  
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/bc90e46d51c92c2f5244f85897e8d9898a6ef7fe/ex18.png)
+
+
 
 
 

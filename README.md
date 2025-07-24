@@ -72,6 +72,8 @@ Speed category
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/8aa56961e71f51c7eef6d734049bee65cc4a3c0f/ex14.png)
 
+# Left function
+=LEFT(A2,3)   
 
 
 

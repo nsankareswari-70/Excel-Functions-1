@@ -89,6 +89,9 @@ Speed category
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/54df9b978e8a4a47d355eed011bcb753fe0f8cd3/ex17.png)
 
+# Median Function
+
+=MEDIAN(A24:G25)  
 
 
 

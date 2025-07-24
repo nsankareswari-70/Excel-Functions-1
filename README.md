@@ -61,6 +61,8 @@ The COUNTIF function is a premade function in Excel, which counts cells as speci
 =IF(B2:B10="Grass","Yes","No")
 =IF(C2:C10>500,"Yes","No")
 
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/5cda06346c65e70b126604e4953d358563bce869/ex13.png)
+
 
 
 

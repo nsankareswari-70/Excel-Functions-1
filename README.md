@@ -148,7 +148,7 @@ which calculates the sum of values in a range based on a true or false condition
 
 =SUMIF(B2:B10,E3,C2:C10)
 
-![image alt]https://github.com/nsankareswari-70/Excel-Functions-1/blob/1b5d016b45f7d69143b0d93f4bf4740a0f961137/ex26.png)
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/1b5d016b45f7d69143b0d93f4bf4740a0f961137/ex26.png)
 
 
 

@@ -99,6 +99,7 @@ Speed category
 
 =MIN(C5:C24)
 
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/862fd67ff0a457a7a857c16eac02711cecd06428/ex19.png)
 
 
 

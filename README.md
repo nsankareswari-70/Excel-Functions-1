@@ -134,6 +134,9 @@ calculates the Standard Deviation (Std) for a sample.
 
 =STDEV.S(E2:E21)
 
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/9e8fe3c6f80210a2e7a7dc04ea3ec145596aa071/ex24.png)
+
+
 
 
 

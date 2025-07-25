@@ -174,6 +174,10 @@ which allows searches across columns.
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/bdaeab3866260d43159efd574234c8a6f865cef8/ex29.png)
 
+# XOR Function
+
+It gives True if only one condition is "True" else "False"
+
 
 
 

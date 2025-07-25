@@ -119,6 +119,7 @@ The NPV function is used to calculate the Net Present Value (NPV)
 
 =OR(B2:B10="Water",C2:C10>60)
 
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/6a1b252669ecd8ab09ae6b772dbe83a9b5d5a718/ex22.png)
 
 
 

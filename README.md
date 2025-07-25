@@ -133,7 +133,9 @@ To retrieve values from the right side of an Excel cell
 calculates the Standard Deviation (Std) for a sample.
 
 =STDEV.S(E2:E21)
-![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/f980f1d66d12e1f0ab9e30d0041728edf89f0b6e/ex24.png)
+
+
+
 
 
 

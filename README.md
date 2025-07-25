@@ -143,6 +143,10 @@ The =SUM function adds both positive and negative numbers.
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/52532aa646a0cdf122d6a6317ce0600f7c230013/ex25.png)
 
+# sumif function
+which calculates the sum of values in a range based on a true or false condition.
+
+=SUMIF(B2:B10,E3,C2:C10)
 
 
 

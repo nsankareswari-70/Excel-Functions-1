@@ -127,6 +127,8 @@ The RAND function is used to generate random numbers.
 To retrieve values from the right side of an Excel cell
 =RIGHT(A2,3)
 
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/c5589097d8a50dbf33e8a9f4d28bc303bf64bd05/ex23.png)
+
 
 
 

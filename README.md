@@ -129,6 +129,10 @@ To retrieve values from the right side of an Excel cell
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/c5589097d8a50dbf33e8a9f4d28bc303bf64bd05/ex23.png)
 
+# STDEV.S Function
+calculates the Standard Deviation (Std) for a sample.
+
+=STDEV.S(E2:E21)
 
 
 

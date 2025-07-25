@@ -178,6 +178,8 @@ which allows searches across columns.
 
 It gives True if only one condition is "True" else "False"
 
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/03499c9ad1b8d4211411c24ceeb9f1bdb73da9d0/ex30.png)
+
 
 
 

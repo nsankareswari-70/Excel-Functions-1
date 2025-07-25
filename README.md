@@ -101,6 +101,11 @@ Speed category
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/862fd67ff0a457a7a857c16eac02711cecd06428/ex19.png)
 
+# Mode function
+
+Return the number occured many times.
+=MODE(B2:E7)
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/053931941d94cb81754d1017cbbaa9e42bc5762d/ex20.png)
 
 
 

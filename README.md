@@ -141,6 +141,7 @@ The =SUM function adds both positive and negative numbers.
 
 =SUM(D2:D10)
 
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/52532aa646a0cdf122d6a6317ce0600f7c230013/ex25.png)
 
 
 

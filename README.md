@@ -150,6 +150,17 @@ which calculates the sum of values in a range based on a true or false condition
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/1b5d016b45f7d69143b0d93f4bf4740a0f961137/ex26.png)
 
+# SUMIFS Function
+which calculates the sum of a range based on one or more true or false condition.
+Example 1: Total Sales by Alice
+=SUMIFS(E2:E10,B2:B10,"=Alice")
+ Example 2: Total Sales of "Widget A" in the "East" Region
+=SUMIFS(E2:E10,D2:D10,"=Widget A",C2:C10,"=East")
+Example 3: Total Sales by Bob of "Widget B"
+=SUMIFS(E2:E10,B2:B10,"=Bob",D2:D10,"=Widget B")
+
+
+
 
 
 

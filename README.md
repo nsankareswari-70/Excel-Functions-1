@@ -162,6 +162,10 @@ Example 3: Total Sales by Bob of "Widget B"
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/595743ad09155364c1261a7b217cf860d706de1d/ex27.png)
 
+# Trim function
+Remove the spaces before and after the text
+=TRIM(A2)
+
 
 
 

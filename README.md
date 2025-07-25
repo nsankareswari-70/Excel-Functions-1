@@ -167,6 +167,11 @@ Remove the spaces before and after the text
 =TRIM(A2)
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/be650768e0c74c6c739b47c0c6c99d3a40f38b3e/ex28.png)
 
+# VLOOKUP Function
+which allows searches across columns.
+
+=VLOOKUP(G3,A1:E21,2,FALSE)
+
 
 
 

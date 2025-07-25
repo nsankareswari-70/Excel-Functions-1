@@ -166,7 +166,7 @@ Example 3: Total Sales by Bob of "Widget B"
 Remove the spaces before and after the text
 =TRIM(A2)
 
-![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/89011e318eba46e21906b65da3d5a9029020262c/ex28.png)
+
 
 
 

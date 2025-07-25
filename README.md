@@ -111,6 +111,8 @@ Return the number occured many times.
 
 =NPV(B9,B2:K2)
 
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/f39bf79159dacb6ba2d87eb400e6d5518de18230/ex21.png)
+
 
 
 

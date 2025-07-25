@@ -107,6 +107,10 @@ Return the number occured many times.
 =MODE(B2:E7)
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/053931941d94cb81754d1017cbbaa9e42bc5762d/ex20.png)
 
+# NPV function
+
+=NPV(B9,B2:K2)
+
 
 
 

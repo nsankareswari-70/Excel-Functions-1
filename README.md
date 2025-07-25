@@ -172,6 +172,8 @@ which allows searches across columns.
 
 =VLOOKUP(G3,A1:E21,2,FALSE)
 
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/bdaeab3866260d43159efd574234c8a6f865cef8/ex29.png)
+
 
 
 

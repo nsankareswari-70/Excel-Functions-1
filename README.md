@@ -95,6 +95,10 @@ Speed category
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/bc90e46d51c92c2f5244f85897e8d9898a6ef7fe/ex18.png)
 
+# Min Function
+
+=MIN(C5:C24)
+
 
 
 

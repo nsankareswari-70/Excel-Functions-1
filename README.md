@@ -123,6 +123,10 @@ The NPV function is used to calculate the Net Present Value (NPV)
 
 # Rand function
 The RAND function is used to generate random numbers.
+# Right function
+To retrieve values from the right side of an Excel cell
+=RIGHT(A2,3)
+
 
 
 

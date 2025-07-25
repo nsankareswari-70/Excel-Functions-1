@@ -160,7 +160,7 @@ Example 3: Total Sales by Bob of "Widget B"
 =SUMIFS(E2:E10,B2:B10,"=Bob",D2:D10,"=Widget B")    
 
 
-
+![image alt](https://github.com/nsankareswari-70/Excel-Functions-1/blob/595743ad09155364c1261a7b217cf860d706de1d/ex27.png)
 
 
 
